@@ -31,9 +31,6 @@ Suitable for service robotics, research platforms, and embodied AI applications.
 ## Product Gallery
 
 ![Full Arm](assets/images/lclwa_full.png)
-![Workspace](assets/images/lclwa_workspace.jpg)
-
-> Replace image paths with actual product images.
 
 ---
 
