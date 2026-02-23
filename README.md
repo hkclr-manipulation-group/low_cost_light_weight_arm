@@ -2,6 +2,8 @@
 
 > A compact, lightweight, and force-controlled collaborative robotic arm for safe and intelligent manipulation.
 
+![Full Arm](assets/images/lclwa_full.png)
+
 ---
 
 ## Overview
@@ -25,12 +27,6 @@ Suitable for service robotics, research platforms, and embodied AI applications.
 - **Reach ≥ 700 mm**
 - **Joint torque sensing**
 - **Impedance / Admittance / Torque control**
-
----
-
-## Product Gallery
-
-![Full Arm](assets/images/lclwa_full.png)
 
 ---
 
