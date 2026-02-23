@@ -1,4 +1,4 @@
-# Low Cost Light Weight Arm (LCLWA)
+# Low-cost Light-weight Arm (LLA)
 
 > A compact, lightweight, and force-controlled collaborative robotic arm for safe and intelligent manipulation.
 
@@ -36,10 +36,3 @@ Suitable for service robotics, research platforms, and embodied AI applications.
 - Service robotics  
 - Property automation  
 - Research & education  
-
----
-
-## Contact
-
-For collaboration or product inquiries:  
-your_email@example.com
